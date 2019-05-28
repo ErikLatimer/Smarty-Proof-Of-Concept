@@ -1,0 +1,80 @@
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+c:\users\erik\documents\visual studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+C:\Users\QWAlker\Documents\Visual Studio 2015\Projects\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXMissionConrtol.resources
+D:\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+D:\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+D:\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXMissionConrtol.resources
+D:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXMissionConrtol.resources
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+C:\Users\Erik\Desktop\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+E:\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+E:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+E:\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXMissionConrtol.resources
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+C:\Users\erikl\Desktop\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXMissionConrtol.resources
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+C:\Users\Erik Latimer\Desktop\Software\Development\Source Code\Femaide\FEMAIDE0.0\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe.config
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.exe
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\bin\Debug\FEMAIDE0.0.pdb
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csprojResolveAssemblyReference.cache
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXMissionConrtol.resources
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Launcher.resources
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.Properties.Resources.resources
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0._0.TrueFXLogin.resources
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.GenerateResource.Cache
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.csproj.CoreCompileInputs.cache
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.exe
+C:\Users\Erik Latimer\Desktop\FEMAIDE0.0-master\FEMAIDE0.0\obj\Debug\FEMAIDE0.0.pdb

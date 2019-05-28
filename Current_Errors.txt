@@ -1,0 +1,17 @@
+﻿Bugs going on with my program :
+
+I think I finally realized why the graph and the table are off-sync with each other. The table is automatically
+set to run as soon as the main interface window starts up, and when the user selects the currency to graph, the 
+graph will appear, but only after the table has run for an arbitrary amount of time. 
+
+Unknown Date Between July, 8th, and August 1st, 2017:
+
+I managed to get the chart and table on sync, but now I have errors whenever I try to uncheck the sync
+check-box within the settings tab of the visual interface. Whats happening is whenever the check-box is unchecked
+within the program, its sends a call to my code telling it to cancel the chart
+
+
+December 3rd, Sunday, 2017
+
+I don't think I fixed that weird bug where if we run the chart and graph for a certain amount of time, it will say
+that a certain point is below or above of the mininmum or maximum. It usually happens after a long time however.
